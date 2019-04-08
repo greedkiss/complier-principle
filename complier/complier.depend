@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554729897 source:c:\users\lenovo\desktop\complier\complier-principle\complier\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

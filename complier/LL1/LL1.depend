@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1555938292 source:c:\users\lenovo\desktop\complier-principle\complier\ll1\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+
